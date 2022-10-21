@@ -1,2 +1,1 @@
-# pico_motion_detection
- 
+# Motion detection with a Raspberry Pi Pico
